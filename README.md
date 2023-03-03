@@ -138,6 +138,6 @@ I would like to thanks [Microverse](https://www.microverse.org/) to guide me to 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](https://github.com/MudasirSherwani/Own-Enumerable-in-Ruby/blob/Development/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
